@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WarGeekYT
-- 👀 I’m interested in Dev Site
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in HTML | CSS | Skript
+- 🌱 I’m currently learning JavaScript
 
 <!---
 WarGeekYT/WarGeekYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
